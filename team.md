@@ -1,4 +1,6 @@
-# Team
+--
+title: team
+-- 
 
 ## Pete Fulé (PI)
 
