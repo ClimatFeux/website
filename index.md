@@ -1,9 +1,7 @@
 ---
-layout: home
-title: Home
+layout: ClimatFeux
+title: ClimatFeux
 ---
-
-# Project ClimatFeux
 
 The ClimatFeux project focuses on the intersection of climate, wildfires, forest ecology,
 and people ́s interactions through traditional and contemporary ecosystem
