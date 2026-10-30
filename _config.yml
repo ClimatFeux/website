@@ -1,6 +1,6 @@
 title: ClimatFeux
 theme: minima
-
+exclude: ["README.md"]
 
 defaults:
   - scope:
