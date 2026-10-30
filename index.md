@@ -1,5 +1,5 @@
 ---
-layout: ClimatFeux
+layout: home
 title: ClimatFeux
 ---
 
