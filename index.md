@@ -5,12 +5,6 @@ title: Home
 
 # Project ClimatFeux
 
-# Aix Marseille University, Avignon University, CNRS, IRD, IMBE, Aix-en-Provence, France
-
-# Funding: France 2030 (ANR-25-CFFS-0005) and Aix-Marseille Université – AMIDEX (AMX-25-SPS-153)
-
-# Project summary
-
 The ClimatFeux project focuses on the intersection of climate, wildfires, forest ecology,
 and people ́s interactions through traditional and contemporary ecosystem
 management. The first Work Package is to build a collaborative research network for
@@ -31,6 +25,3 @@ will result in new research partnerships producing new data sets, scientific
 publications, outreach to professionals and the public, and a PhD graduate as well as a
 post-doctoral research experience. These contributions will help support science and
 provide useful information for adapting to warming climate and changing fire patterns.
-
-![Applied science : Pyrodendrochronologie](fire_scared_trees.png)
-
