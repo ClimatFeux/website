@@ -1,2 +1,9 @@
 title: ClimatFeux
 theme: minima
+
+
+defaults:
+  - scope:
+      path: ""        # all files
+    values:
+      layout: "page"  # apply minima's page layout automatically
