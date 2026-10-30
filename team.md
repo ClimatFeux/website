@@ -1,10 +1,10 @@
 ---
 layout: default
-title: team
+title: Team
 ---
 
-## Pete Fulé (PI)
+# Pete Fulé (PI)
 
-## Esther Amoako (PostDoc)
+# Esther Amoako (PostDoc)
 
-## Malte Dunkhorst (PhD student)
+# Malte Dunkhorst (PhD student)
