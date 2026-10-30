@@ -1,7 +1,7 @@
---
+---
 layout: default
 title: team
--- 
+---
 
 ## Pete Fulé (PI)
 
