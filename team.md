@@ -5,6 +5,6 @@ title: Team
 
 # Pete Fulé (PI)
 
-# Esther Amoako (PostDoc)
+# Esther Ekua Amoako (PostDoc)
 
-# Malte Dunkhorst (PhD student)
+# Malte Dunkhorst (PhD Student)
