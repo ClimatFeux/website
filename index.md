@@ -1,6 +1,6 @@
 ---
 layout: home
-title: ClimatFeux
+title: Project Summary
 ---
 
 The ClimatFeux project focuses on the intersection of climate, wildfires, forest ecology,
