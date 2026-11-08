@@ -3,7 +3,7 @@ layout: default
 title: À propos
 ---
 
- **Français** · [English](/)
+ **Français** · [English](/tema.md)
 
 # Pete Fulé (Chercheur principal)
 
