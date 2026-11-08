@@ -1,7 +1,6 @@
 **English** · [Français](/fr/index.md)
 ---
 layout: home
-title: climatFeux
 # Project Summary
 ---
 
