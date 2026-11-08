@@ -1,3 +1,5 @@
+**English** · [Français](/fr/)
+
 # Résumé de projet 
 
 Le projet ClimatFeux se concentre sur l’intersection du climat, des incendies de forêt, de
