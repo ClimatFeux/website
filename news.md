@@ -3,7 +3,7 @@ layout: default
 title: News
 ---
 
-**English** · [Français](/fr/news.html)
+**English** · [Français](/fr/news.md)
 
 # News
 
