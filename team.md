@@ -1,3 +1,4 @@
+**English** · [Français](/fr/)
 ---
 layout: default
 title: Team
@@ -5,6 +6,6 @@ title: Team
 
 # Pete Fulé (PI)
 
-# Esther Ekua Amoako (PostDoc)
+# Esther Ekua Amoako (Postdoc)
 
 # Malte Dunkhorst (PhD Student)
