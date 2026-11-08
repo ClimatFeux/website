@@ -1,5 +1,6 @@
 ---
-layout: home
+layout: default
+title: Home
 ---
 
 **English** · [Français](/fr/index.md)
