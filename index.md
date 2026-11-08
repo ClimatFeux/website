@@ -1,7 +1,7 @@
 **English** · [Français](/fr/index.md)
 ---
-layout: home
-title: Project Summary
+
+# Project Summary
 ---
 
 The ClimatFeux project focuses on the intersection of climate, wildfires, forest ecology,
