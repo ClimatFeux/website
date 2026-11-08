@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[English](/index.md) ·  **Français**
+[English](/) · **Français** 
 
 # Résumé de projet 
 
