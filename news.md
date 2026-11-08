@@ -3,6 +3,8 @@ layout: default
 title: News
 ---
 
+**English** · [Français](/fr/news.html)
+
 # News
 
 ## 01.10.2026 PhD candidate Malte Dunkhorst joined the team
