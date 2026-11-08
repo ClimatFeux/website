@@ -1,6 +1,9 @@
-**English** · [Français](/fr/index.md)
 ---
 layout: home
+---
+
+**English** · [Français](/fr/index.md)
+
 # Project Summary
 ---
 
