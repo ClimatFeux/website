@@ -1,4 +1,9 @@
-[English](/) · **Français**
+---
+layout: default
+title: À propos
+---
+
+ **Français** · [English](/)
 
 # Pete Fulé (Chercheur principal)
 
