@@ -1,3 +1,4 @@
+**English** · [Français](/fr/)
 ---
 layout: home
 title: Project Summary
