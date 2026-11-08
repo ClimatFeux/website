@@ -1,4 +1,4 @@
-**English** · [Français](/fr/)
+**Français** · [English](/)
 
 # Résumé de projet 
 
