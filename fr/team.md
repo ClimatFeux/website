@@ -1,5 +1,7 @@
-**Français** · [English]
+[English](/) · **Français**
 
-Pete Fulé (Chercheur principal)
-Esther Ekua Amoako (Chercheur postdoctoral)
-Malte Dunkhorst (Doctorant)
+# Pete Fulé (Chercheur principal)
+
+# Esther Ekua Amoako (Chercheur postdoctoral)
+
+# Malte Dunkhorst (Doctorant)
