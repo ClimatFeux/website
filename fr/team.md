@@ -1,6 +1,5 @@
 ---
 layout: default
-title: À propos
 ---
 
  **Français** · [English](/tema.md)
