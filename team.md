@@ -1,4 +1,4 @@
-**English** · [Français](/fr/)
+**English** · [Français](/fr/team)
 ---
 layout: default
 title: Team
