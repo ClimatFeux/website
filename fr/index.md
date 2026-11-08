@@ -1,3 +1,8 @@
+---
+layout: default
+title: home
+---
+
 **Français** · [English](/)
 
 # Résumé de projet 
