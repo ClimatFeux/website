@@ -3,7 +3,7 @@ layout: default
 title: home
 ---
 
-**Français** · [English](/)
+**Français** · [English](/index.md)
 
 # Résumé de projet 
 
