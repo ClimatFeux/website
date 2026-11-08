@@ -2,7 +2,7 @@
 layout: default
 title: News
 ---
-**Français**  · [English](/)
+**Français**  · [English](/news.md)
 
 # News
 
