@@ -6,6 +6,6 @@ layout: default
 
 # Pete Fulé (Chercheur principal)
 
-# Esther Ekua Amoako (Chercheur postdoctoral)
+# Esther Ekua Amoako (Chercheuse postdoctorale)
 
 # Malte Dunkhorst (Doctorant)
