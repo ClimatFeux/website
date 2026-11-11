@@ -5,7 +5,6 @@ title: Financial support
 
 **English** · [Français](/fr/index.md)
 
-| Bild 1 | Bild 2 |
 | :---: | :---: |
 | ![AMU](LOGO_AMU.png) | ![IMBE](LOGO_IMBE.jpeg) |
 # Affilitations
