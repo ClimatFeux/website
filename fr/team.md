@@ -2,7 +2,7 @@
 layout: default
 ---
 
- **Français** · [English](/tema.md)
+ **Français** · [English](../)
 
 # Pete Fulé (Chercheur principal)
 
