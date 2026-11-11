@@ -5,7 +5,7 @@ title: Financement
 
 **Français** · [English](../)
 
-![AMU](amu.png)                  ![IMBE]imbe.png)
+![AMU](LOGO_AMU.png)                  ![IMBE]LOGO_IMBE.png)
 # Affiliations
 
 Tous les membres sont affiliés à l'Université d'Aix-Marseille, à l'Université d'Avignon, au CNRS, à l'IRD,
