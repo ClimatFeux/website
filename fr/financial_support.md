@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Financial support
+title: Financement
+lang: fr
 ---
 
 **Français** · [English](../)
