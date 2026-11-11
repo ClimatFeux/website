@@ -1,5 +1,11 @@
 title: ClimatFeux
 theme: minima
+  header_pages:
+    - index.md
+    - team.md
+    - news.md
+    - publications.md
+    - financial_support.md
 baseurl: "/website"
 exclude: ["README.md"]
 
