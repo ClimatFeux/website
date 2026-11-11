@@ -5,7 +5,7 @@ title: Affiliations & Funding
 
 **English** · [Français](/fr/index.md)
 
-![AMU](amu.png)                  ![IMBE]imbe.png)
+![AMU](LOGO_AMU.png)                  ![IMBE]LOGO_IMBE.png)
 # Affilitations
 
 All members are affiliated to Aix Marseille University, Avignon University, CNRS, IRD,
