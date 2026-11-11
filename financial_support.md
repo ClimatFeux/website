@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Affiliations & Funding
+title: Financial support
 ---
 
 **English** · [Français](/fr/index.md)
