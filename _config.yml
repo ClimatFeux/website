@@ -1,5 +1,6 @@
 title: ClimatFeux
 theme: minima
+baseurl: "/website"
 exclude: ["README.md"]
 
 defaults:
