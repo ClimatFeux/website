@@ -14,6 +14,6 @@ We are supported by the French government under the program
 France 2030 (ANR-25-CFFS-0005) and Aix-Marseille Université–AMIDEX
 (AMX-25-SPS-153). 
 
----
+| | |
 | :---: | :---: |
 | ![AMU](LOGO_AMU.png) | ![IMBE](LOGO_IMBE.jpeg) |
