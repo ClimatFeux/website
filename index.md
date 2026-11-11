@@ -6,7 +6,6 @@ title: Home
 **English** · [Français](/fr/index.md)
 
 # Project Summary
----
 
 The ClimatFeux project focuses on the intersection of climate, wildfires, forest ecology,
 and people ́s interactions through traditional and contemporary ecosystem
