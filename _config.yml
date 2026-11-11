@@ -2,13 +2,12 @@ title: ClimatFeux
 theme: minima
 baseurl: "/website"
 
-minima:
-  header_pages:
-    - index.md
-    - team.md
-    - news.md
-    - publications.md
-    - financial_support.md
+header_pages:
+  - index.md
+  - team.md
+  - news.md
+  - publications.md
+  - financial_support.md
 
 exclude:
   - README.md
