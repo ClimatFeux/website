@@ -1,5 +1,8 @@
 ---
 layout: default
+title: Accueil
+lang: fr
+---
 ---
 
 **Français** · [English](../)
