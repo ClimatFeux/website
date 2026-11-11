@@ -5,6 +5,7 @@ title: Financial support
 
 **English** · [Français](/fr/index.md)
 
+# Affiliations
 All members are affiliated to Aix Marseille University, Avignon University, CNRS, IRD,
 IMBE, Aix-en-Provence, France.
 
