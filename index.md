@@ -28,3 +28,6 @@ will result in new research partnerships producing new data sets, scientific
 publications, outreach to professionals and the public, and a PhD graduate as well as a
 post-doctoral research experience. These contributions will help support science and
 provide useful information for adapting to warming climate and changing fire patterns.
+
+![Graphical abstract](graphical_abstract.png)
+
