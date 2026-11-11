@@ -16,4 +16,4 @@ France 2030 (ANR-25-CFFS-0005) and Aix-Marseille Université–AMIDEX
 
 | | |
 | :---: | :---: |
-| ![AMU](LOGO_AMU.png) | ![IMBE](LOGO_IMBE.jpeg) |
+| <img src="path/to/LOGO_AMU.png" alt="Description" width="300"> | <img src="path/to/LOGO_IMBE.jpeg.png" alt="Description" width="300"> |
