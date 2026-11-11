@@ -5,7 +5,7 @@ lang: fr
 
 **Français** · [English](../)
 
-![AMU](LOGO_AMU.png)                  ![IMBE]LOGO_IMBE.jpeg)
+![AMU](LOGO_AMU.png)                  ![IMBE](LOGO_IMBE.jpeg)
 # Affiliations
 
 Tous les membres sont affiliés à l'Université d'Aix-Marseille, à l'Université d'Avignon, au CNRS, à l'IRD,
