@@ -1,6 +1,6 @@
 ---
-layout: defaut
-title: Home
+layout: default
+lang: fr
 ---
 
 **Français** · [English](../)
