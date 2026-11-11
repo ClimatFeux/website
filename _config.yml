@@ -1,16 +1,20 @@
 title: ClimatFeux
 theme: minima
+baseurl: "/website"
+
+minima:
   header_pages:
     - index.md
     - team.md
     - news.md
     - publications.md
     - financial_support.md
-baseurl: "/website"
-exclude: ["README.md"]
+
+exclude:
+  - README.md
 
 defaults:
   - scope:
-      path: ""        # all files
+      path: ""
     values:
-      layout: "page"  # apply minima's page layout automatically
+      layout: "page"
