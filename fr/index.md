@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[English](/) · **Français** 
+**Français** · [English](/)
 
 # Résumé de projet 
 
