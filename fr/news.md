@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Actualités
 lang: fr
 ---
 **Français** · [English](../)
