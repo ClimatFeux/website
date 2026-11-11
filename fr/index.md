@@ -29,3 +29,5 @@ données, des publications scientifiques, une sensibilisation aux professionnels
 ainsi que deux titulaires de doctorat et une expérience de recherche postdoctorale. Ces
 contributions aideront à soutenir la science et fourniront des informations utiles pour
 s’adapter au réchauffement climatique et aux modèles de feux changeants.
+
+![Graphical abstract](graphical_abstract.png)
