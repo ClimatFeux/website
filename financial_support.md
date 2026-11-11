@@ -5,9 +5,9 @@ title: Financial support
 
 **English** · [Français](/fr/index.md)
 
-|  |  |
+|
 | :---: | :---: |
-| ![AMU](LOGO_AMU.png) | ![IMBE](LOGO_IMBE.jpeg) |
+| ![AMU](LOGO_AMU.png) | ![IMBE](LOGO_IMBE.jpeg) ||
 # Affilitations
 
 All members are affiliated to Aix Marseille University, Avignon University, CNRS, IRD,
