@@ -1,5 +1,6 @@
 ---
 layout: defaut
+title: Home
 ---
 
 **Français** · [English](../)
