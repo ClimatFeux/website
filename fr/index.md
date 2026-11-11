@@ -1,9 +1,5 @@
 ---
-layout: page
-title: Accueil
-lang: fr
----
----
+layout: defaut
 ---
 
 **Français** · [English](../)
