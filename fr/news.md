@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-**Français**  · [English](/news.md)
+**Français** · [English](../)
 
 # News
 
